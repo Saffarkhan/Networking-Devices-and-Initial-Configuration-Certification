@@ -1,0 +1,19 @@
+In this Module, i have learnt the design of network that how to design a network keeping in view the data protection, and network scalability for the local and enterpirise level
+There are four basic characteristics of network architects 
+1: Fault Tolerance
+2: Scalability 
+3: Quality of Service 
+4: information Security
+
+The Network Security includes three requirements 
+1: Confidentiality: The data is only the intended and authorized recipients can access and read data.
+2: Integrity: The information has not been altered in transmission, from origin to destination
+3: Avalaibilioty: users of timely and reliable access to data services for authorized users.
+
+Hierarchical Network Design 
+This design says that the detwork divides a network into three layers 
+1: Access: Provides a connection point for end-user devices to the network  
+2: Distribution: Provides a connection point for separate networks and control the flow of information between the networks
+3: Core: this is a high-speed backbone layer with the redundant connection 
+
+It improves scalability, performance, security, and network management.
