@@ -1,0 +1,24 @@
+This module covers the basic concepts of Ethernet switching. I learned how switches work, how they forward Ethernet frames, and how they use MAC addresses to send data to the correct destination.
+
+Topics Covered
+
+Basics of Ethernet switching
+How switches learn MAC addresses
+MAC address tables
+Ethernet frame forwarding
+Frame flooding and filtering
+How switches handle unknown destination MAC addresses
+Unicast, broadcast, and multicast traffic
+
+What I Learned
+How a switch learns MAC addresses from incoming frames.
+How a switch builds and maintains its MAC address table.
+How a switch forwards frames to the correct port.
+The difference between known and unknown destination MAC addresses.
+How switches improve communication between devices on a network.
+
+Practical Learning
+I completed the Networking Devices and Initial Configuration course module on Ethernet Switching through Cisco Networking Academy.
+
+Conclusion
+This module helped me understand how Ethernet switches communicate with devices and forward data within a local area network (LAN).
