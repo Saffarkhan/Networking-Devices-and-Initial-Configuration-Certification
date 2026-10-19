@@ -1,0 +1,30 @@
+This module covers the structure of IPv4 addresses and how they are used to identify devices on a network. I learned how IPv4 addresses are divided into network and host portions.
+
+Topics Covered
+IPv4 address structure
+Binary and decimal notation
+32-bit IPv4 addresses
+Network and host portions
+Subnet masks
+Network addresses and host addresses
+IPv4 address types
+
+What I Learned
+An IPv4 address is 32 bits long.
+An IPv4 address is divided into four octets.
+Each octet contains 8 bits.
+IPv4 addresses are usually written in decimal format, such as 192.168.1.10.
+A subnet mask identifies the network and host portions of an IP address.
+Network addresses identify networks, while host addresses identify devices within a network.
+Binary numbers are used to understand how IPv4 addressing works.
+
+Example
+IPv4 Address: 192.168.1.10
+First Octet: 192
+Second Octet: 168
+Third Octet: 1
+Fourth Octet: 10
+Total Length: 32 bits
+
+This module helped me understand IPv4 addressing, binary notation, and the role of subnet masks in identifying network and host portions.
+
