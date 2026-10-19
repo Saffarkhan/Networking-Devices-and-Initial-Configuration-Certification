@@ -1,0 +1,22 @@
+This module covers the basic concepts of the Network Layer. I learned how devices communicate across different networks and how IP addresses help deliver data to the correct destination.
+
+Topics Covered
+Network Layer functions
+IPv4 and IPv6 addressing
+IP packets
+Routing between networks
+Default gateways
+How routers forward packets
+Routing tables
+Path selection and packet delivery
+
+What I Learned
+The role of the Network Layer in data communication.
+How IP addresses identify devices across networks.
+The difference between IPv4 and IPv6
+How routers forward packets from one network to another.
+How a default gateway helps a device communicate with remote networks.
+How routing tables help routers choose where to forward packets.
+
+Conclusion
+This module helped me understand how IP addressing and routing allow devices to communicate across different networks.
