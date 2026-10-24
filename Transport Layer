@@ -1,0 +1,37 @@
+This module covers the role of the Transport Layer in network communication. I learned how data is delivered between applications on different devices using TCP and UDP.
+
+Topics Covered
+
+Transport Layer functions
+Transmission Control Protocol (TCP)
+User Datagram Protocol (UDP)
+Port numbers
+Segmentation and reassembly
+TCP reliability
+UDP communication
+Multiplexing and demultiplexing
+
+What I Learned
+The Transport Layer provides communication between applications running on different devices.
+TCP provides reliable data delivery and checks whether data arrives correctly.
+UDP is faster and has less overhead, but it does not guarantee delivery.
+Port numbers help identify the correct application or service.
+Segmentation divides data into smaller pieces for transmission.
+Reassembly combines received segments to recover the original data.
+TCP uses acknowledgments and sequence numbers to support reliable communication.
+
+TCP
+Connection-oriented
+Reliable delivery
+Uses acknowledgments
+More overhead
+Used by many web and email applications
+
+UDP
+Connectionless
+Delivery is not guaranteed
+Does not use acknowledgments for delivery
+Less overhead
+Used by applications such as live streaming and online gaming
+
+
