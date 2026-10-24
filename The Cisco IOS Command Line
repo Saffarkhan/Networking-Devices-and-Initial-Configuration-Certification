@@ -1,0 +1,33 @@
+This module covers the basics of the Cisco IOS Command Line Interface (CLI). I learned how to access network devices and use commands to configure and manage routers and switches.
+
+Topics Covered
+
+Cisco IOS Command Line Interface (CLI)
+User EXEC mode
+Privileged EXEC mode
+Global configuration mode
+Basic Cisco IOS commands
+Navigating between CLI modes
+Command help and syntax
+Viewing device information
+
+What I Learned
+Cisco IOS CLI is used to configure and manage Cisco routers and switches.
+The enable command enters privileged EXEC mode.
+The configure terminal command enters global configuration mode.
+The hostname command changes the device name.
+The show commands display device information and configuration.
+The exit command leaves the current mode.
+The ? symbol provides help with available commands.
+The do command allows EXEC commands to be run from configuration modes.
+
+Command                               Purpose
+enable                                Enter privileged EXEC mode
+configure terminal                    Enter global configuration mode
+hostname R1                           Set the device hostname to R1
+show running-config                   Display the current running configuration
+show ip interface brief               Display interface IP addresses and status
+exit                                  Leave the current mode
+end                                   Return to privileged EXEC mode
+copy running-config startup-config    Save the running configuration
+
