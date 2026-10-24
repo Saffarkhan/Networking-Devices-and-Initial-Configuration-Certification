@@ -1,0 +1,22 @@
+This module covers the services that help devices obtain IP addresses and communicate with other devices on a network. I learned about DHCP, DNS, and their roles in network communication.
+
+Topics Covered
+Dynamic Host Configuration Protocol (DHCP)
+DHCP server and client
+How DHCP assigns IP addresses
+DHCP address assignment process
+Domain Name System (DNS)
+DNS name resolution
+Static and dynamic IP addressing
+
+What I Learned
+DHCP automatically assigns IP configuration to devices.
+DHCP can provide an IP address, subnet mask, default gateway, and DNS server address.
+A DHCP client requests network configuration from a DHCP server.
+DHCP uses the DORA process: Discover, Offer, Request, and Acknowledgment.
+DNS translates domain names into IP addresses.
+DNS helps users access websites without remembering their IP addresses.
+Static IP addresses are configured manually, while dynamic IP addresses are usually assigned automatically through DHCP.
+
+DHCP: When a computer connects to a network, it can automatically receive an IP address from a DHCP server.
+DNS: When a user enters www.cisco.com in a browser, DNS helps find the IP address associated with that domain name.
