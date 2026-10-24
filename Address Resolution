@@ -1,0 +1,19 @@
+This module covers how devices find the destination MAC address needed to send data over a local network. I learned how ARP (Address Resolution Protocol) works with IPv4 addresses to find the corresponding MAC address.
+
+Topics Covered
+Address Resolution Protocol (ARP)
+IPv4 addresses and MAC addresses
+How ARP works
+ARP requests and replies
+MAC address resolution
+ARP tables
+Communication within a local network
+
+What I Learned
+The difference between an IP address and a MAC address.
+How ARP maps an IPv4 address to a MAC address.
+How a device sends an ARP request to find another device's MAC address.
+How the destination device responds with an ARP reply.
+How devices store learned IP-to-MAC mappings in an ARP table.
+How ARP helps devices communicate within a local network.
+
