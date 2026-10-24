@@ -1,0 +1,19 @@
+This module covers the basics of Internet Control Message Protocol (ICMP). I learned how ICMP is used to send error messages and diagnostic information between network devices.
+
+Topics Covered
+Internet Control Message Protocol (ICMP)
+ICMP messages
+Echo Request and Echo Reply
+The ping command
+Traceroute
+Network connectivity testing
+Basic network troubleshooting
+
+What I Learned
+ICMP is used to report network errors and provide diagnostic information.
+The ping command uses ICMP Echo Request and Echo Reply messages to test connectivity.
+Echo Request messages are sent to check whether a destination can respond.
+Echo Reply messages are returned when the destination responds to the request.
+Traceroute uses different techniques to discover the path packets take through a network.
+ICMP helps network administrators identify connectivity problems.
+
